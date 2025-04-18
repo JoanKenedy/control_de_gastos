@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
 𝐏𝐫𝐨𝐲𝐞𝐜𝐭𝐨 𝐝𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐝𝐞 𝐆𝐚𝐬𝐭𝐨𝐬
+
 Aplicación web para llevar un control de gastos personales. Permite agregar, editar, eliminar y filtrar gastos según categoría, con una interfaz moderna e intuitiva.
 
 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢́𝐚𝐬 𝐮𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚𝐬
