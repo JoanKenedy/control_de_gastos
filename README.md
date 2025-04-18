@@ -37,5 +37,6 @@ Validaciones simples en formularios (campos requeridos, formatos, etc.).
 𝐌𝐚𝐧𝐞𝐣𝐨 𝐝𝐞 𝐞𝐯𝐞𝐧𝐭𝐨𝐬 𝐜𝐨𝐧 𝐨𝐧𝐂𝐡𝐚𝐧𝐠𝐞, 𝐨𝐧𝐂𝐥𝐢𝐜𝐤 𝐲 𝐨𝐧𝐒𝐮𝐛𝐦𝐢𝐭.
 
 𝗧𝗶𝗽𝗮𝗱𝗼 𝗳𝘂𝗲𝗿𝘁𝗲
+
 Uso de Types personalizados para componentes, contextos y acciones, lo que mejora la claridad y reduce errores en tiempo de desarrollo.
 
